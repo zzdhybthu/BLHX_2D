@@ -1,7 +1,0 @@
-提前解锁所有关卡、剧情以及彩蛋的方法：
-
-打开注册表
-找到HKEY_CURRENT_USER\Software\真正的火羽白\微速前行
-更改（或新建DWORD）isSuccess1值为1，isSuccess2值为1，blood值为10000，maxScore值为任意你喜欢的正整数
-(注意是十进制）
-重启游戏即可
