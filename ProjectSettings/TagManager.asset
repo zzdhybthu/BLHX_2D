@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet0
+  - bullet10
+  - bullet10task1
+  - bullet200
+  - enemy
+  - mybullet
+  - bullet500
+  - Math
+  - collider
+  - colliderMagic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - bullet
+  - 
+  - 
+  - 
+  - 
+  - person
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1977164671
+    locked: 0
+  - name: bullet
+    uniqueID: 3218505863
+    locked: 0
+  - name: person
+    uniqueID: 1979743607
+    locked: 0
